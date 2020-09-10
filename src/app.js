@@ -11,17 +11,6 @@ app.get('',(req, res) => {
     res.send('<h1>Hello express!</h1>')
 })
 
-// app.get('/help', (req, res) => {
-//     res.send({
-//         name: 'Ankur',
-//         Place: 'Montreal'
-//     })
-// })
-
-// app.get('/about', (req, res) => {
-//     res.send('About page')
-// })
-
 app.get('/weather', (req, res) => {
     res.send('Weather page')
 })
