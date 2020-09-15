@@ -3,7 +3,15 @@ body {
     font-family: arial;
     max-width: 650px;
     margin: 0 auto;
-    padding: 0 16px
+    padding: 0 16px;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex-grow: 1;
 }
 
 footer {
@@ -29,6 +37,6 @@ header a {
     text-decoration: none;
 }
 
-img {
+.portrait {
     width: 250px;
 }
