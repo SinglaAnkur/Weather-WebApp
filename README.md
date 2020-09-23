@@ -39,6 +39,7 @@ Server is up on port 3000.
 ```
 This application could be accessed over the internet from this URL: https://ankur-weather-webapp.herokuapp.com/
 
+<p> <img src="https://github.com/SinglaAnkur/Weather-WebApp/blob/master/public/img/snap.JPG" height="400"/> </p>
 
 ## Acknowledgments
 I would like to gratefully and sincerely thank Prof. Andrew Mead for his guidance, understanding through course The Complete Node.js Developer Course (3rd Edition) on Udemy.com
